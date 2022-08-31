@@ -3,3 +3,6 @@ marvelgame.iml
 /domain/domain.iml
 /business/business.iml
 /application/application.iml
+/domain/target/
+/application/target/
+/business/target/
